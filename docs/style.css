@@ -156,7 +156,7 @@
 .hero{
     height: 350px;
     width:100%;
-    background-image: url(../resources/linkkkkkkk.jpg);
+    background-image: url(./resources/linkkkkkkk.jpg);
     background-size: cover;
     display: flex;
     align-items: flex-end;
